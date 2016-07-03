@@ -1,1 +1,1 @@
-include ':app', ':javasamples', ':liteorm', ':sqlitesample'
+include ':app', ':javasamples', ':liteorm', ':sqlitesample',':devcom'
